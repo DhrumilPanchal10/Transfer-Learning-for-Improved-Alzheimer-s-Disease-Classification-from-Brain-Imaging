@@ -1,1 +1,4 @@
 # Transfer-Learning-for-Improved-Alzheimer-s-Disease-Classification-from-Brain-Imaging
+Published in the ’International Journal of Intelligent Systems and Applications in Engineering,’ this research paper explores the application of deep learning techniques, specifically transfer learning with MobileNet architecture, for Alzheimer’s disease classification using brain imaging data.
+• The research yielded notable enhancements in classification precision, as MobileNet surpassed prior cutting-edge techniques. The work showcases proficiency in machine learning when it comes to diagnosing diseases through medical imaging.
+• The paper contributes to advancing the field of AD classification through deep learning methods, leveraging pre-trained convolutional neural network models and the ADNI 5-class dataset.
